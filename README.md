@@ -2,7 +2,7 @@
 
 ### Yo! Me pode me chamar de Thay e eu não acho que irei passar muito tempo aqui, enfim, sinta-se livre para dar uma olhada no meu perfil
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Thay&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
 
