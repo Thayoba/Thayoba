@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=thaycode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
 ### Yo! Me pode me chamar de Thay e eu não acho que irei passar muito tempo aqui, enfim, sinta-se livre para dar uma olhada no meu perfil
 
