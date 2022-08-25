@@ -6,9 +6,9 @@
 
 <p>
 
-Estudando/trabalhando na **SENAI**<br/>
+Estudando/trabalhando no **SENAI**<br/>
 
-Eu sou desenvolvedor **ESTUDANTE**.
+Eu sou **ESTUDANTE**.
 
 
 </p>
